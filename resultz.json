@@ -1,0 +1,144 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 12,
+  "numPassedTests": 12,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1743155450093,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde reactstrap'ten FormFeedback kullanılmış",
+          "status": "passed",
+          "title": "Login componentinde reactstrap'ten FormFeedback kullanılmış",
+          "duration": 82,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde errors ve isValid state'leri tanımlanmış",
+          "status": "passed",
+          "title": "Login componentinde errors ve isValid state'leri tanımlanmış",
+          "duration": 15,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde isValid başlangıç değeri false yapılmış",
+          "status": "passed",
+          "title": "Login componentinde isValid başlangıç değeri false yapılmış",
+          "duration": 16,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login componentinde useEffect kullanılmış tanımlanmış",
+          "status": "passed",
+          "title": "Login componentinde useEffect kullanılmış tanımlanmış",
+          "duration": 21,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handleSubmit'de isValid kontrolü yapılmış",
+          "status": "passed",
+          "title": "handleSubmit'de isValid kontrolü yapılmış",
+          "duration": 23,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sign In butonu disabled olarak başlıyor",
+          "status": "passed",
+          "title": "Sign In butonu disabled olarak başlıyor",
+          "duration": 28,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Form doğru bilgiler ile doldurulunca buton enabled oluyor",
+          "status": "passed",
+          "title": "Form doğru bilgiler ile doldurulunca buton enabled oluyor",
+          "duration": 727,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Email yanlış doldurulunca hata mesajı görünüyor",
+          "status": "passed",
+          "title": "Email yanlış doldurulunca hata mesajı görünüyor",
+          "duration": 231,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Email doğru doldurulunca hata mesajı ortadan kalkıyor",
+          "status": "passed",
+          "title": "Email doğru doldurulunca hata mesajı ortadan kalkıyor",
+          "duration": 361,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Password yanlış doldurulunca hata mesajı görünüyor",
+          "status": "passed",
+          "title": "Password yanlış doldurulunca hata mesajı görünüyor",
+          "duration": 161,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Password doğru doldurulunca hata mesajı ortadan kalkıyor",
+          "status": "passed",
+          "title": "Password doğru doldurulunca hata mesajı ortadan kalkıyor",
+          "duration": 234,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Form doğru bilgiler ile doldurulunca form submit oluyor",
+          "status": "passed",
+          "title": "Form doğru bilgiler ile doldurulunca form submit oluyor",
+          "duration": 724,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1743160409440,
+      "endTime": 1743160412064,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-rtvxvm/src/__tests__/index.test.jsx"
+    }
+  ]
+}
