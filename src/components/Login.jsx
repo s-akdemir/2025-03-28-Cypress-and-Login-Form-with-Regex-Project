@@ -46,6 +46,8 @@ export default function Login() {
     setErrors(newErrors);
     if (Object.keys(newErrors).length === 0) {
       setIsValid(true);
+    } else {
+      setIsValid(false);  
     }
   };
   useEffect(() => {
